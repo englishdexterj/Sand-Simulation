@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"o_controller","order":2,"path":"objects/o_controller/o_controller.yy",},
+    {"name":"o_parent","order":1,"path":"objects/o_parent/o_parent.yy",},
+    {"name":"sc_check_bot_right","order":1,"path":"scripts/sc_check_bot_right/sc_check_bot_right.yy",},
+    {"name":"sc_image_to_object","order":2,"path":"scripts/sc_image_to_object/sc_image_to_object.yy",},
+  ],
+}
